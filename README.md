@@ -17,7 +17,6 @@
 </a>
 <!--<img align="left" title="访客统计" height="22px" src="https://visitor-badge.glitch.me/badge?page_id=WangTwoThree" />-->
 <img align="left" title="访客统计" height="22px" src="https://api.error.work/api/visitors?page_id=WangTwoThree" />
-![](https://api.error.work/api/visitors?page_id=WangTwoThree)
 <br />
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/a5c7c7397871b9348b88302ac5cd56ddbf8774b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73792d7265636f7264732f73746174696366696c65406d61737465722f696d616765732f3230323030372f6875616a692e676966" />
 
@@ -29,5 +28,5 @@
 
 ⭐️ From [WangTwoThree](https://github.com/TwoThreeWang)
 
-
+![访客统计](https://api.error.work/api/visitors?page_id=WangTwoThree)
 ![:WangTwoThree](https://count.getloli.com/get/@:WangTwoThree)
