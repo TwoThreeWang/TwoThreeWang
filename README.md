@@ -25,7 +25,7 @@
 - I am currently working on Python and big data related work.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-![](https://chat.error.work/room/@wangtwothree/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=demo@getloli.com:%20~)
+![](https://chat.error.work/room/@wangtwothree/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=点击本图留言聊天)
 
 ⭐️ From [WangTwoThree](https://github.com/TwoThreeWang)
 
