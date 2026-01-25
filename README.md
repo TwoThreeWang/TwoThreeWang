@@ -1,8 +1,5 @@
 ## Hello World! <img src="https://cdn.jsdelivr.net/gh/TwoThreeWang/TwoThreeWang/Hi.gif" width="30px"></h2>
 
-<br />
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/TwoThreeWang/TwoThreeWang/run.gif" />
-
 ### I am WangTwoThree
 - An Open Source enthusiast.
 - I am from China. 
