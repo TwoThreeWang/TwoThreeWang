@@ -2,6 +2,5 @@
 
 ### I am WangTwoThree
 - An Open Source enthusiast.
-- I am from China. 
 - I am currently working on Python and big data related work.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
